@@ -84,11 +84,11 @@ Sistema de gerenciamento para consultórios odontológicos.
 
 ## 🎓 Formação e Certificações
 
-- **🎓 Bacharelado em Farmácia** - Unifenas Alfenas-MG (2012)
 - **💻 Full Stack TypeScript** - DIO (Em andamento)
 - **🚀 Node.js do Zero ao Avançado** - Hora de Codar (2025)
 - **⚛️ React.js com TypeScript Avançado** - Udemy (2025)
 - **🌐 Front-end Development** - DevMedia (2025)
+- **🎓 Bacharelado em Farmácia** - Unifenas Alfenas-MG (2012)
 
 ---
 
