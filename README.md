@@ -84,7 +84,8 @@ Sistema de gerenciamento para consultórios odontológicos.
 
 ## 🎓 Formação e Certificações
 
-- **💻 Full Stack TypeScript** - DIO (Em andamento)
+- **☕️ Especialista em backend Java** - Mestre dos Cursos (em andamento)  
+- **💻 Full Stack TypeScript** - DIO (2025)
 - **🚀 Node.js do Zero ao Avançado** - Hora de Codar (2025)
 - **⚛️ React.js com TypeScript Avançado** - Udemy (2025)
 - **🌐 Front-end Development** - DevMedia (2025)
