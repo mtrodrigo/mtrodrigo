@@ -62,7 +62,7 @@ Regras de Negócio · SaaS · Autenticação JWT · RBAC
 
 ## 📊 Estatísticas GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtrodrigo&show_icons=true&include_all_commits=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtrodrigo&show_icons=true&include_all_commits=true&theme=dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtrodrigo&layout=compact&langs_count=8&theme=dark)
 
 ---
